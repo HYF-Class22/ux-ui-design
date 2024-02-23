@@ -1,4 +1,5 @@
 # UX/UI Design
+[Link to Figma design](https://www.figma.com/file/ApdbW5XodVUP0czWfqaPx9/Untitled?type=design&node-id=1-4&mode=design&t=QrfSDwQKPLhZD0TS-0)
 
 [![design thinking cycle](./assets/design-thinking-cycle.jpeg)](https://www.maqe.com/insight/the-design-thinking-process-how-does-it-work/)
 
